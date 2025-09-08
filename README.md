@@ -16,10 +16,6 @@ A hands-on Arduino training series delivered under **IEEE Robotics & Automation 
 > **Recorded sessions:** https://drive.google.com/drive/folders/15nEn1KmiMwyX1cmH0K3ZoFhjJg331kHN?usp=sharing
 
 ---
-
-## 🧭 Course Structure
-![photo](RAS.png)
-
 Folders in this repo:
 ```
 RAS 1st workshop/
