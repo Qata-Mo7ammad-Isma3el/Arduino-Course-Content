@@ -1,0 +1,40 @@
+Our first workshop topics:
+1. Arduino anatomy and definition. done 
+2. Arduino IDE. 
+3. Arduino Syntax and Program Flow (void setup & void loop) 
+4. pinMode()
+5. digitalWrite() && digitalRead() && analogWrite() (PWM pins) && analogRead()
+6. Breadboard
+7. simple blink code (LED)
+8. Arduino Serial | Serial.begin()
+9. Arduino Serial.print()
+10. Serial.available()
+11. Arduino Serial.read() and Serial.write()
+
+Our  Second workshop topics:
+1) RGB code (analogWrite()) 
+2) Arduino Functions
+3) add a pushbutton to the RGB code (digitalRead())
+4) analog pins && analogRead()
+5) LM35 temperature sensor (example)
+6) potentiometer && map()
+
+Our  third workshop topics:
+1) Ultrasonic sensor 
+2) Buzzer or piezo with tone and noTone functions. 
+3) PIR sensor 
+4) 2× 16 LCD
+5) analog joystick
+
+Our fourth Workshop topics
+1. DC motor with L298N  motor driver.
+2. DC motor with L293D motor driver.
+3. Keypad with keypad library.
+4. Servo motor.
+5. Password Based Security Door Lock System.
+
+Our fifth Workshop topic:
+electronic circuit fundamentals by Jullnar Radwan.
+
+Our sixth Workshop topic
+final project (simple mobile robot). 
